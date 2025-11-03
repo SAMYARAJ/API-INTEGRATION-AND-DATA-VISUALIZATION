@@ -18,3 +18,6 @@ Key features include a modular design with separated functions for fetching data
 This script serves as a solid foundation for weather data analysis projects and can be extended to more complex dashboards using libraries like Seaborn or interactive frameworks such as Dash or Streamlit. By combining API data retrieval, JSON parsing, and effective visualization, this code exemplifies practical skills in API integration and data visualization while adhering to best practices for clarity, robustness, and user experience. It is ideal for developers or analysts who require both programmatic access to public weather data and dynamic graphical representation of the collected information.
 
 #OUTPUT
+
+<img width="1189" height="590" alt="Image" src="https://github.com/user-attachments/assets/a03a4e0a-b510-423b-9cac-8622cee11f83" />
+
